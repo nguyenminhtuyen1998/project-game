@@ -50,7 +50,7 @@ btnNumbers.click(function() {
     }
     if (number == result) {
         content += `
-        <span class="badge bg-success">Đúng rồi !!! Yêu Huệ nhiều nhắm ^^!</span>
+        <span class="badge bg-success">Đúng rồi !!!</span>
         `
         contentRs = `<h4 class="me-3">Số bí mật: </h4>
         <h2><span id="result-display" class="badge bg-success">${result}</span></h2>`
